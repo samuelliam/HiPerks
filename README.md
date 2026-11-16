@@ -89,7 +89,7 @@ android/, ios/, macos/, web/  Platform projects and configuration
    flutter run -d chrome
    ```
 
-The project uses Firebase platform configuration files for native builds and Firebase options in `lib/backend/firebase/firebase_config.dart` for web. Use a Firebase project you are authorised to access; do not point a development build at production data unless you intend to.
+The public repository uses `GOOGLE_API_KEY_REDACTED` placeholders in Google Maps and Firebase configuration. Before running a build, replace them with appropriately restricted keys from a Firebase/Google Cloud project you are authorised to use. Do not point a development build at production data unless you intend to.
 
 ## Firebase and Cloud Functions
 
