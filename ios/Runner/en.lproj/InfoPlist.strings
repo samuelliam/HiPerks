@@ -1,0 +1,5 @@
+NSCameraUsageDescription = " Hi Perks would like to access your camera to enable you to set or update your profile picture and for QR scanning. ";
+NSPhotoLibraryUsageDescription = " Hi Perks would like to access your photo library to enable you to set or update your profile picture.";
+PermissionGroupNotification = "Hi Perks would like to send you notifications to enhance your experience and keep you updated.";
+NSLocationWhenInUseUsageDescription = "Hi Perks needs access to your location to help you set or update your store's Google Review reference accurately.";
+PrivacyLocationWhenInUseUsageDescription = "Hi Perks needs access to your location to help you set or update your store's Google Review reference accurately.";

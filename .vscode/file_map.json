@@ -1,0 +1,130 @@
+{
+  "lib/custom_code/actions/set_revenue_cat_attributes.dart": {
+    "old_identifier_name": "setRevenueCatAttributes",
+    "new_identifier_name": "setRevenueCatAttributes",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "d593c857dd4f643686d58b814c0d9b28b6cca36108409f3b9ab6cf6c8dbafbf9",
+    "original_checksum": "d593c857dd4f643686d58b814c0d9b28b6cca36108409f3b9ab6cf6c8dbafbf9"
+  },
+  "lib/custom_code/actions/generate_i_d10_char.dart": {
+    "old_identifier_name": "generateID10Char",
+    "new_identifier_name": "generateID10Char",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "5f97bc6af710b9742749e5356f3248a8b3639411151699ca76a31ccb31b14144",
+    "original_checksum": "5f97bc6af710b9742749e5356f3248a8b3639411151699ca76a31ccb31b14144"
+  },
+  "lib/custom_code/actions/remove_all_store_order_from_cart.dart": {
+    "old_identifier_name": "removeAllStoreOrderFromCart",
+    "new_identifier_name": "removeAllStoreOrderFromCart",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "f4cecb3b622fbcf2ac13309e6a7c5675e9274691caee0c54b0301dfd078e56df",
+    "original_checksum": "f4cecb3b622fbcf2ac13309e6a7c5675e9274691caee0c54b0301dfd078e56df"
+  },
+  "lib/custom_code/actions/get_user_notification_action.dart": {
+    "old_identifier_name": "getUserNotificationAction",
+    "new_identifier_name": "getUserNotificationAction",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "de81720f50cc0df128a79fa77949f954cb0e0afd4444203cabc1c3284fee5e4e",
+    "original_checksum": "de81720f50cc0df128a79fa77949f954cb0e0afd4444203cabc1c3284fee5e4e"
+  },
+  "lib/custom_code/actions/save_q_r.dart": {
+    "old_identifier_name": "saveQR",
+    "new_identifier_name": "saveQR",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "2820f4af1d6bed730a01ee3e9357c8d714b5c6c5dd0fcf95811e16a5bfe47e04",
+    "original_checksum": "2820f4af1d6bed730a01ee3e9357c8d714b5c6c5dd0fcf95811e16a5bfe47e04"
+  },
+  "lib/custom_code/actions/search_google_places_review.dart": {
+    "old_identifier_name": "searchGooglePlacesReview",
+    "new_identifier_name": "searchGooglePlacesReview",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "3f02c4e615373467d9f559133e4e2d8b4745655617582bd13d024e8a55d31e7a",
+    "original_checksum": "3f02c4e615373467d9f559133e4e2d8b4745655617582bd13d024e8a55d31e7a"
+  },
+  "lib/custom_code/actions/filter_chat.dart": {
+    "old_identifier_name": "filterChat",
+    "new_identifier_name": "filterChat",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "0d92fa3296b10d65382dd805629938931279d17297b64fa001b53ee91c768388",
+    "original_checksum": "0d92fa3296b10d65382dd805629938931279d17297b64fa001b53ee91c768388"
+  },
+  "lib/custom_code/actions/initializedi_o_s_app_check.dart": {
+    "old_identifier_name": "initializediOSAppCheck",
+    "new_identifier_name": "initializediOSAppCheck",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "dd42651e17849948261194328b0ad23b501f1b83312c605a68bb516beda98b3d",
+    "original_checksum": "dd42651e17849948261194328b0ad23b501f1b83312c605a68bb516beda98b3d"
+  },
+  "lib/custom_code/actions/get_user_voucher_document.dart": {
+    "old_identifier_name": "getUserVoucherDocument",
+    "new_identifier_name": "getUserVoucherDocument",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "2e259a07797aa6acd9c367c92722b1ffe75b66d217c7fab3df7b90ecbfb957cd",
+    "original_checksum": "2e259a07797aa6acd9c367c92722b1ffe75b66d217c7fab3df7b90ecbfb957cd"
+  },
+  "lib/custom_code/actions/scan_q_r.dart": {
+    "old_identifier_name": "scanQR",
+    "new_identifier_name": "scanQR",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "17beac8c1a7a3c062ccea1d63016fb7d733c91289951acf38fa74fe78f6557ba",
+    "original_checksum": "17beac8c1a7a3c062ccea1d63016fb7d733c91289951acf38fa74fe78f6557ba"
+  },
+  "lib/custom_code/widgets/q_r_with_photo.dart": {
+    "old_identifier_name": "QRWithPhoto",
+    "new_identifier_name": "QRWithPhoto",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "c79d41f872b8e67dffc9e4c409d5d8f00e213e728acb0ee20736f76bd76203ed",
+    "original_checksum": "c79d41f872b8e67dffc9e4c409d5d8f00e213e728acb0ee20736f76bd76203ed"
+  },
+  "lib/custom_code/widgets/country_code_picker_widget.dart": {
+    "old_identifier_name": "CountryCodePickerWidget",
+    "new_identifier_name": "CountryCodePickerWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "9aeab0aba126b38ab46c4e6108b22b6a43b0910aa10d539eb1e7df7a9c8abbb4",
+    "original_checksum": "9aeab0aba126b38ab46c4e6108b22b6a43b0910aa10d539eb1e7df7a9c8abbb4"
+  },
+  "lib/custom_code/widgets/color_picker.dart": {
+    "old_identifier_name": "ColorPicker",
+    "new_identifier_name": "ColorPicker",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "8b535a6ed46e910c43922ce14f0d0b78c04394f05b704f291ad28ad11d2f6e27",
+    "original_checksum": "8b535a6ed46e910c43922ce14f0d0b78c04394f05b704f291ad28ad11d2f6e27"
+  },
+  "lib/custom_code/widgets/mobile_scanner.dart": {
+    "old_identifier_name": "MobileScanner",
+    "new_identifier_name": "MobileScanner",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "b2d826fe2d056e9c48bdef7891dfce7e5e4315038226134e9a86d8e787da9035",
+    "original_checksum": "b2d826fe2d056e9c48bdef7891dfce7e5e4315038226134e9a86d8e787da9035"
+  },
+  "lib/flutter_flow/custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "c03c5c9fea5bd177467f55a304aea9d64e9486aadfad92a202f7beed02921342",
+    "original_checksum": "c03c5c9fea5bd177467f55a304aea9d64e9486aadfad92a202f7beed02921342"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "d361355f4af5342f09ac82c966a0678e2a00646791ab002340b2e009e850f900",
+    "original_checksum": "d361355f4af5342f09ac82c966a0678e2a00646791ab002340b2e009e850f900"
+  }
+}

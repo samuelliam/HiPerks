@@ -1,0 +1,27 @@
+{
+  "files.readonlyInclude": {
+    "**": true
+  },
+  "files.readonlyExclude": {
+    "lib/custom_code/**": true,
+    "lib/flutter_flow/custom_functions.dart": true,
+    "pubspec.yaml": true,
+    "lib/flutter_flow/function_changes.json": true,
+    ".vscode/settings.json": true,
+    "lib/custom_code/actions/set_revenue_cat_attributes.dart": true,
+    "lib/custom_code/actions/generate_i_d10_char.dart": true,
+    "lib/custom_code/actions/remove_all_store_order_from_cart.dart": true,
+    "lib/custom_code/actions/get_user_notification_action.dart": true,
+    "lib/custom_code/actions/save_q_r.dart": true,
+    "lib/custom_code/actions/search_google_places_review.dart": true,
+    "lib/custom_code/actions/filter_chat.dart": true,
+    "lib/custom_code/actions/initializedi_o_s_app_check.dart": true,
+    "lib/custom_code/actions/get_user_voucher_document.dart": true,
+    "lib/custom_code/actions/scan_q_r.dart": true,
+    "lib/custom_code/widgets/q_r_with_photo.dart": true,
+    "lib/custom_code/widgets/country_code_picker_widget.dart": true,
+    "lib/custom_code/widgets/color_picker.dart": true,
+    "lib/custom_code/widgets/mobile_scanner.dart": true
+  },
+  "dart.flutterSdkPath": ".fvm/versions/3.47.6"
+}
